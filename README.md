@@ -1,6 +1,7 @@
 <h1 align="center">Привет👋 Меня зовут Лера!</h1>
 
 ###
+![Welcome GIF](https://github.com/fora21/gif/raw/main/welcome.gif)
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=filimonovalexey.filimonovalexey&"  />
