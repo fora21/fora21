@@ -1,9 +1,8 @@
 <h1 align="center">Привет👋 Меня зовут Лера!</h1>
 
 ###
-(https://github.com/fora21/gif/raw/main/image_860606161605512260237.gif)
 <p align="center">
-  <img src="https://github.com/fora21/gif/raw/main/image_860606161605512260237.gif" alt="Приветствие" width="300"/>
+  <img src="https://github.com/fora21/gif/raw/main/image_860606161605512260237.gif" alt="Приветствие" width="500"/>
 </p>
 
 <div align="center">
